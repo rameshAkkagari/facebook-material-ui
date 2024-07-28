@@ -94,7 +94,7 @@ function Sidebar({mode,setMode}){
                     <ListItemIcon>
                     <ModeNight />
                     </ListItemIcon>
-                    <Switch onChange={()=>setMode(mode==="light" ? "dark" : "light")}/>
+                    <Switch onChange={()=>setMode(mode==="dark" ? "light" : "dark")}/>
                 </ListItemButton>
                 </ListItem>
             </List>
