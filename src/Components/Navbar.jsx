@@ -90,7 +90,7 @@ function Navbar() {
         }}
       >
         <MenuItem>
-        <a href="">Profile</a></MenuItem>
+        <MenuItem>Profile</MenuItem></MenuItem>
         <MenuItem>My account</MenuItem>
         <MenuItem>Logout</MenuItem>
       </Menu>
