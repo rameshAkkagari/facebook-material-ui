@@ -89,7 +89,8 @@ function Navbar() {
           horizontal: 'left',
         }}
       >
-        <MenuItem>Profile</MenuItem>
+        <MenuItem>
+        <a href="">Profile</a></MenuItem>
         <MenuItem>My account</MenuItem>
         <MenuItem>Logout</MenuItem>
       </Menu>
